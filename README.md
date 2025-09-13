@@ -80,5 +80,5 @@ Optional:
 1. Clone this repository:
 
 ```bash
-git clone <repo_url>
+git clone 
 cd marketing_dashboard
