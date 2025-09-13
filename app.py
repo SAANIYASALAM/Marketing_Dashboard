@@ -11,7 +11,7 @@ import numpy as np
 facebook_df = pd.read_csv('data/Facebook.csv')
 google_df = pd.read_csv('data/Google.csv')
 tiktok_df = pd.read_csv('data/TikTok.csv')
-business_df = pd.read_csv('data/Business.csv')
+business_df = pd.read_csv('data/business.csv')
 
 marketing_df = pd.concat([facebook_df, google_df, tiktok_df], ignore_index=True)
 marketing_df['date'] = pd.to_datetime(marketing_df['date'])
