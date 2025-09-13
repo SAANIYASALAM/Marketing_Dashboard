@@ -2,6 +2,8 @@
 
 A comprehensive Streamlit-based dashboard for analyzing marketing campaigns, measuring their impact on business outcomes, and providing actionable insights for executives.
 
+🌐 **Live Demo:** [Click here to view the app](https://marketingdashboard-bogra66jmcxr7zcakscbry.streamlit.app/)
+
 ---
 
 ## 🚀 Features
